@@ -1,4 +1,4 @@
-#include "staticlib.h"
+#include "dylib.h"
 #include<stdio.h>
 int main(){
   int a[5];

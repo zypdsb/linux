@@ -5,7 +5,7 @@ void showarray(int *a,int n)
 {
 	int i;
     for(i=0;i<n;i++)
-	  printf("%d :%d\n",i,a[i]);
+	  printf("%d :%d\n",n,a[i]);
 }
 void initarray(int *a,int n)
 {
