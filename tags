@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+buf	week7/code/test/test3.c	/^char buf[] = {"write to stdout\\n"};$/;"	v	language:C
+initarray	week6/code/dynamiclib/base.c	/^void initarray(int *a,int n)$/;"	f	language:C	signature:(int *a,int n)
+initarray	week6/code/staticlib/base.c	/^void initarray(int *a,int n)$/;"	f	language:C	signature:(int *a,int n)
+main	week6/code/dynamiclib/ldtextlocal.c	/^int main(){$/;"	f	language:C
+main	week6/code/exam/remotetest.c	/^int main(){$/;"	f	language:C
+main	week6/code/staticlib/localtest.c	/^int main(){$/;"	f	language:C
+main	week6/code/test/dytestremote.c	/^int main(){$/;"	f	language:C
+main	week6/code/test/dytestrt.c	/^int main(){$/;"	f	language:C
+main	week7/code/test/test.cpp	/^int main(){ $/;"	f	language:C++	signature:()
+main	week7/code/test/test2.c	/^int main(){$/;"	f	language:C
+main	week7/code/test/test3.c	/^int main()$/;"	f	language:C
+max	week6/code/dynamiclib/aopend.c	/^int max(int *a,int n)$/;"	f	language:C	signature:(int *a,int n)
+max	week6/code/staticlib/aoprand.c	/^int max(int *a,int n)$/;"	f	language:C	signature:(int *a,int n)
+showarray	week6/code/dynamiclib/base.c	/^void showarray(int *a,int n)$/;"	f	language:C	signature:(int *a,int n)
+showarray	week6/code/staticlib/base.c	/^void showarray(int *a,int n)$/;"	f	language:C	signature:(int *a,int n)
+sum	week6/code/dynamiclib/aopend.c	/^int sum(int *a,int n)$/;"	f	language:C	signature:(int *a,int n)
+sum	week6/code/staticlib/aoprand.c	/^int sum(int *a,int n)$/;"	f	language:C	signature:(int *a,int n)
