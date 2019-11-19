@@ -28,12 +28,12 @@ int main(int argc,char *argv[]){
 	perror("failed to create file\n");
 	return -1;
    }
-   if(fputs(buf,fp)==EOF){
+   if(fputs(buf,fp)==EOF){       //quan huanchong
 	perror("failed to fputs file\n");
 	return -1;
    }
    printf("test message!");
    //exit(0);
-   //_exit(0);
-   return 0;
+   _exit(0);
+   //return 0;
 }
